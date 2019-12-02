@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Chaitanya Jadhav</title>
-    <link>https://chaitanya-jadhav.github.io/projects/</link>
+    <link>https://chaitanyajadhav.com/projects/</link>
     <description>Recent content in Projects on Chaitanya Jadhav</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sat, 30 Nov 2019 22:46:51 +0530</lastBuildDate>
     
-	<atom:link href="https://chaitanya-jadhav.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://chaitanyajadhav.com/projects/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>A</title>
-      <link>https://chaitanya-jadhav.github.io/projects/a/</link>
+      <link>https://chaitanyajadhav.com/projects/a/</link>
       <pubDate>Sat, 30 Nov 2019 22:46:51 +0530</pubDate>
       
-      <guid>https://chaitanya-jadhav.github.io/projects/a/</guid>
+      <guid>https://chaitanyajadhav.com/projects/a/</guid>
       <description>A content</description>
     </item>
     
